@@ -2,4 +2,5 @@
 
 link used:
 
-http://khulnaplex.net/tv/
+* http://khulnaplex.net/tv/
+* https://tv.durbinlive.com/
